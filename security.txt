@@ -5,4 +5,3 @@ Encryption: https://key.valentinbinotto.com/key_security.txt
 Encryption: https://key.valentinbinotto.com/key_webmaster.txt
 Preferred-Languages: en, de
 Canonical: https://valentinbinotto.com/security.txt
-Policy: https://valentinbinotto.com/security.txt
