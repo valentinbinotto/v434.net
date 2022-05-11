@@ -1,7 +1,11 @@
 This is the Source Code for my website:
-
 https://v434.net
 
 
-My PGP Public key you will find on: https://v434.net/key
+My PGP Public key you will find on: 
+https://v434.net/key
+
+
+If you see any security bugs please see this page:
+https://v434.net/security.txt
 
