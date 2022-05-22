@@ -11,3 +11,11 @@ subdomains (@everything.vb7.org). This Domain is protected
 by DKIM, SPF and DMARC. If you receive any suspicious mail
 from @vb7.org or @everything.vb7.org, please contact
 security@vb7.org
+
+You can trust the following domains (I am the owner and i own this domains
+for unlimited time):
+
+v434.org
+v434.net
+vb7.org
+vb4.org
