@@ -8,7 +8,7 @@ Canonical: https://v434.net/security.txt
 
 You can trust all mails from addresses of @vb7.org or
 subdomains (@everything.vb7.org). This Domain is protected
-by DKIM, SPF and DMARC. If you receive any suspicious mail
+with DKIM, SPF and DMARC. If you receive any suspicious mail
 from @vb7.org or @everything.vb7.org, please contact
 security@vb7.org
 
