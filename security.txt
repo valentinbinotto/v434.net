@@ -4,3 +4,10 @@ Expires: 2023-02-28T23:00:00.000Z
 Encryption: https://v434.net/key
 Preferred-Languages: en, de
 Canonical: https://v434.net/security.txt
+
+
+You can trust all mails from addresses of @vb7.org or
+subdomains (@everything.vb7.org). This Domain is protected
+by DKIM, SPF and DMARC. If you receive any suspicious mail
+from @vb7.org or @everything.vb7.org, please contact
+security@vb7.org
