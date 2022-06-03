@@ -9,6 +9,3 @@ https://v434.net/key
 If you see any security problems please see this page:
 https://v434.net/security.txt
 
-If you want to donate to organizations I love:
-https://v434.net/donate
-
