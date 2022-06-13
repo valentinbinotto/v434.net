@@ -1,4 +1,4 @@
-This is the Source Code for my website:
+This is the source code for my website:
 https://v434.net
 
 
