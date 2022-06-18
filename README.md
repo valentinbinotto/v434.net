@@ -7,5 +7,5 @@ https://v434.net/key
 
 
 If you see any security problems please see this page:
-https://v434.net/security.txt
+https://v434.net/.well-known/security.txt
 
